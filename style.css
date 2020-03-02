@@ -13,6 +13,7 @@ div {
   background: white;
   padding: 30px;
   font-size: 22px;
+  font-style: italic
 }
 
 /* ID selector to select the element with id 'main-header' */
@@ -27,4 +28,5 @@ div {
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
   margin:auto;
+  font-style: italic
 }
